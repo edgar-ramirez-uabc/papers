@@ -1,0 +1,5 @@
+left,right,keys,left_unique,right_unique,intersection,left_match_rate,left_missing_rows,right_missing_rows
+Adults,Anthropometry,UPM|VIV_SEL|HOGAR|NUMREN,43070,33818,17355,0.4029486881820293,0,0
+Adults,Residents,UPM|VIV_SEL|HOGAR|NUMREN,43070,158044,43070,1.0,0,0
+Adults,Biochemistry,UPM|VIV_SEL|HOGAR|NUMREN,43070,2905,2891,0.06712328767123288,0,0
+Adults,Households,UPM|VIV_SEL|HOGAR,43070,44612,43070,1.0,0,0
