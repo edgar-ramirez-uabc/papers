@@ -1,5 +1,5 @@
-Region_Name,N,BMI_mean,BMI_sd,BMI_weighted_mean
-Centro,4512,28.33,5.47,28.24
-Ciudad de México,374,29.05,5.33,28.92
-Norte,2685,29.1,6.11,29.11
-Sur,4532,29.0,5.6,28.89
+Region_Name,N,BMI_mean,BMI_sd,EDAD_mean,EDAD_sd,BMI_weighted_mean
+Centro,6295,28.62,5.68,44.98,16.94,28.54
+Ciudad de México,560,29.12,5.65,47.06,16.81,29.13
+Norte,3845,29.4,6.28,45.38,16.55,29.33
+Sur,6334,29.06,5.75,44.79,16.54,28.92
